@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  padding-left: 20px;
+}
+form {
+  margin-top: 10px;
+  width: 50px;
+}
+div {
+  margin: 10px ;
+}
+input {
+  margin-top: 5px;
+}
+form  button {
+  color: white ;
+  background-color: dodgerblue; 
+  font-weight: bold;
+  font-size: 1.2rem;
+  border: 1px solid ;
+  padding: 3px;
+  cursor: pointer;
+  width: 100px;
+  height: 34px;
+
+}
